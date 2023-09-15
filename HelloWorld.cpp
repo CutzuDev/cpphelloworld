@@ -9,6 +9,8 @@ int main()
     std::cout << width;
     std::cin.get();
     std::cout << "Testing stufff";
+    std::cout << "Testing stufff";
+    std::cout << "Testing stufff";
     std::cin.get();
     return 0;
 }
